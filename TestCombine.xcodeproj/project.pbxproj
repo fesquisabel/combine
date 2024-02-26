@@ -653,6 +653,7 @@
 				DEVELOPMENT_TEAM = U2A8PYH29U;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TestCombine/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Combine;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -685,6 +686,7 @@
 				DEVELOPMENT_TEAM = U2A8PYH29U;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TestCombine/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Combine;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
